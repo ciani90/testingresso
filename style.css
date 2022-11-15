@@ -1,0 +1,58 @@
+.{
+  margin: 0px;
+  box-sizing: border-box;
+}
+body{
+  background-image: url(img/background.jpg);
+  background-size: cover;
+}
+.container{
+  width: 800px;
+  margin: auto;
+  background-color: rgba(0, 0, 0, 0.5);
+  margin-top: 10%;
+  border-radius: 10px;
+  text-align: center;
+  padding: 100px;
+}
+header img{
+  width: 300px;
+}
+header span{
+  color: #00dd00;
+  font-weight: 600;
+  font-size: 30px;
+}
+.menu{
+  background-color: #00dd00;
+  height: 40px;
+  border-radius: 4px;
+}
+.menu button{
+  margin-top: 10px;
+}
+.content{
+  text-align: left;
+  color: white;
+  margin-top: 10px;
+}
+.content span{
+  font-size: 20px;
+}
+.ricarica{
+  height: 20px;
+  border-radius: 4px;
+}
+#carica1{
+;
+  width: 300px;
+  background-color: #eb8334;
+}
+#carica2{
+  width: 400px;
+  background-color: #00750c;
+}
+#carica3{
+  width: 100px;
+  background-color: #ad0e16;
+}
